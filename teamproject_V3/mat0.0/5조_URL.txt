@@ -1,0 +1,21 @@
+●스타벅스&빽다방 자료
+https://www.data.go.kr/data/15083033/fileData.do
+공공데이터 포털,한국 소상공인시장진흥공단에서 제공
+
+●아파트(매매)_실거래가 자료
+http://rtdown.molit.go.kr/
+국토교통부의 실거래가 공개시스템에서 제공
+면적금액이라는 새로운 변수로 만들었다.
+면적금액은 거래금액(만원)을 전용면적(㎡)로 나눈 값이다.
+
+●서울시 우리마을가게 상권분석서비스(상권배후지-추정유동인구)
+https://www.data.go.kr/data/15076417/fileData.do
+공공데이터 포털,서울특별시에서 제공
+
+●서울교통공사 노선별 지하철역 정보
+http://data.seoul.go.kr/dataList/OA-15442/S/1/datasetView.do
+서울교통공사 스마트정보처에서 제공
+
+●서울특별시 버스정류소 위치정보
+http://data.seoul.go.kr/dataList/OA-15067/S/1/datasetView.do
+서울특별시 도시교통실 보행친화기획관 교통정보과에서 제공
