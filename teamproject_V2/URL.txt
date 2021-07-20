@@ -1,0 +1,19 @@
+1. https://sites.google.com/view/snuaric/covid-19/covid-19-data?authuser=0
+
+2. https://bigdata.seoul.go.kr/noti/selectNoti.do?r_id=P260&bbs_seq=403&ac_type=A1&sch_type=&sch_text=&currentPage=2
+
+3. https://github.com/mjs1995/Visualization/blob/main/plotly/%5B시각화%5D%20코로나%20대시보드.ipynb - 코로나관련 시각화
+
+4 .http://www.covid19board.kr/culture - COVID 이후 변화
+
+5. https://docs.google.com/spreadsheets/d/16Bqi22CxKXWaubgl0tgDVI1XkOhYrmR1BxQlLFLxrMk/edit#gid=455001500
+
+6. https://www.kaggle.com/kimjihoo/coronavirusdataset
+
+7. https://dacon.io/competitions/official/235618/talkboard 코로나 시각화 경진대회
+
+8. https://kosis.kr/covid/covid_index.do 코로나 발생현황
+
+9. https://sgis.kostat.go.kr/view/thematicMap/thematicMapMain?stat_thema_map_id=sAXkcVzk5V202007141335257355ued9032uw&theme=CTGR_005&mapType=05 통계질의 정보서비스
+
+https://www.culture.go.kr/bigdata/user/data_market/detail.do?id=9fa4a230-27b6-11eb-af9a-4b03f0a582d6 코로나 이전,이후 문화시설 유동인구 분석
